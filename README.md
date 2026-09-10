@@ -7,8 +7,8 @@ Aplikasi CLI (*Command Line Interface*) berbasis Java yang dirancang untuk menge
 ## 📸 Dokumentasi & Alur Program
 
 ### 1. Tampilan Menu Utama & Menampilkan Data (Read)
-![Menu Utama dan Read Data](<img width="1040" height="452" alt="image" src="https://github.com/user-attachments/assets/a3f52765-1c32-410d-a596-535e21260467" />
-)
+[Menu Utama dan Read Data]<img width="1040" height="452" alt="Screenshot 2026-09-10 151715" src="https://github.com/user-attachments/assets/1198cd91-2e99-48a8-aa58-c52a074d5601" />
+
 
 **Penjelasan:**
 * Saat aplikasi pertama kali dijalankan, sistem akan menginisialisasi beberapa *dummy data* awal.
@@ -18,8 +18,10 @@ Aplikasi CLI (*Command Line Interface*) berbasis Java yang dirancang untuk menge
 ---
 
 ### 2. Menambahkan Proyek Baru (Create)
-![Tambah Data Proyek](<img width="853" height="262" alt="image" src="https://github.com/user-attachments/assets/6f14106c-f237-4de2-8dec-556fe62825e6" />
-)
+[Tambah Data Proyek]
+
+<img width="853" height="262" alt="image" src="https://github.com/user-attachments/assets/6f14106c-f237-4de2-8dec-556fe62825e6" />
+
 
 **Penjelasan:**
 * Pengguna memilih **Option 1 (Tambah Proyek)** untuk memasukkan data proyek baru.
@@ -29,8 +31,10 @@ Aplikasi CLI (*Command Line Interface*) berbasis Java yang dirancang untuk menge
 ---
 
 ### 3. Mengubah Data Proyek (Update)
-![Update Data Proyek](<img width="983" height="357" alt="image" src="https://github.com/user-attachments/assets/eb7f6e19-a5a5-40d6-9c31-032b842e0882" />
-)
+[Update Data Proyek]
+
+<img width="983" height="357" alt="image" src="https://github.com/user-attachments/assets/eb7f6e19-a5a5-40d6-9c31-032b842e0882" />
+
 
 **Penjelasan:**
 * Pengguna memilih **Option 3 (Ubah Data Proyek)**.
@@ -40,8 +44,9 @@ Aplikasi CLI (*Command Line Interface*) berbasis Java yang dirancang untuk menge
 ---
 
 ### 4. Menghapus Proyek (Delete) & Keluar dari Program
-![Hapus Data dan Keluar](<img width="1067" height="542" alt="image" src="https://github.com/user-attachments/assets/7acd0f9a-cb46-4ad1-98c8-24e8187f1cff" />
-)
+[Hapus Data dan Keluar]
+
+<img width="1067" height="542" alt="image" src="https://github.com/user-attachments/assets/7acd0f9a-cb46-4ad1-98c8-24e8187f1cff" />
 
 **Penjelasan:**
 * Pengguna memilih **Option 4 (Hapus Proyek)** untuk menghapus data berdasarkan indeks daftar. Objek terkait akan dihapus dari `ArrayList`.
@@ -51,7 +56,9 @@ Aplikasi CLI (*Command Line Interface*) berbasis Java yang dirancang untuk menge
 
 ## 🌟 Penerapan Nilai Tambah (Validation & Exception Handling)
 
-![Validasi Input Nilai Tambah](<img width="1110" height="676" alt="image" src="https://github.com/user-attachments/assets/321492c1-7019-41df-9b89-8e5fd35b4b5f" />)
+[Validasi Input Nilai Tambah]
+
+<img width="1110" height="676" alt="image" src="https://github.com/user-attachments/assets/321492c1-7019-41df-9b89-8e5fd35b4b5f" />
 
 **Penjelasan Letak Nilai Tambah:**
 1. **Validasi Input Tipe Data (*InputMismatchException*):**
